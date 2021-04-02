@@ -1,0 +1,13 @@
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\bin\Debug\netcoreapp3.1\EsercizioWeek2.exe
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\bin\Debug\netcoreapp3.1\EsercizioWeek2.deps.json
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\bin\Debug\netcoreapp3.1\EsercizioWeek2.runtimeconfig.json
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\bin\Debug\netcoreapp3.1\EsercizioWeek2.runtimeconfig.dev.json
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\bin\Debug\netcoreapp3.1\EsercizioWeek2.dll
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\bin\Debug\netcoreapp3.1\EsercizioWeek2.pdb
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.dll
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.pdb
+C:\Users\faggi\OneDrive\Desktop\Esercizio 02.04\EsercizioWeek2\EsercizioWeek2\obj\Debug\netcoreapp3.1\EsercizioWeek2.genruntimeconfig.cache
